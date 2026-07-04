@@ -1,0 +1,6 @@
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+scikit-learn>=1.4,<2.0
+tensorflow>=2.17,<2.19
+keras>=3.0,<4.0
+pyspark>=3.5,<4.0
